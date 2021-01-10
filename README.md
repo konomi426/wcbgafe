@@ -1,0 +1,41 @@
+# wcbgafe
+WCB Cafe site 
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="description" content="ブレンドコーヒーとヘルシーなオーガニックフードを提供するカフェ">
+  <title>WCB Cafe</title>
+
+  <!-- CSS読み込み -->
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Philosopher&display=swap" rel="stylesheet">
+<link rel="icon" type="image/png" href="img/WCBCafe/images/favicon.png">
+
+  <link rel="stylesheet" href="style.css">
+
+
+</head>
+<!-- ここから内容 -->
+<body>
+  <div id="home" class="big-bg">
+<!-- ヘッダーアイコン -->
+<header class="page-header wrapper">
+  <div class="logo">
+    <img src="img/WCBCafe/images/logo.svg" >
+  </div>
+    <ul class="main-nav">
+      <li><a href="#">NEWS</a></li>
+      <li><a href="#">MENU</a></li>
+      <li><a href="#">CONTACT</a></li>
+    </ul>
+</header>
+  <div class="home-content wrapper">
+    <h2 class="page-title">We'll Make Your Day</h2>
+    <p>おしゃれなカフェで癒されてみませんか？無添加の食材で体の中からリフレッシュ</p>
+    <a href="#" class="button">メニューを見る</a>
+  </div><!--＃home </div> -->
+
+  
+</body>
+</html>
